@@ -1,0 +1,7 @@
+narbar 
+picture
+content
+
+section
+sidebar
+footer
